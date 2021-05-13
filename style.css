@@ -78,6 +78,10 @@ main{
     display: block;
 }
 
+.animalpic{
+    max-width: 60%;
+}
+
 /* text css */
 
 #aboutme{
